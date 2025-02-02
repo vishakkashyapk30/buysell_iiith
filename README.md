@@ -12,8 +12,6 @@ A marketplace platform for IIIT Hyderabad community developed using MERN Stack.
   
 - **CAS Integration**
   - Single Sign-On with IIIT Hyderabad's CAS
-  - Automatic profile creation for first-time CAS users
-  - Seamless authentication flow
 
 - **Profile Management**
   - Update personal information (name, email, contact)
