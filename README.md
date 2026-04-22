@@ -1,4 +1,4 @@
-# Buy, Sell @ IIITH
+# Buy & Sell @ IIITH
 
 A marketplace platform for IIIT Hyderabad community developed using MERN Stack.
 
